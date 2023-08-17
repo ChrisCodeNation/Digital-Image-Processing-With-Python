@@ -1,6 +1,7 @@
 # Opencv-course
 Thia repository is for me to learn and practice coding with opencv ONLY.
-Keep updating...
+
+Keep updating...(20230818)
 
 # Course outline
 ## Section #1 Basics
