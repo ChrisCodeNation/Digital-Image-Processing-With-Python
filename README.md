@@ -1,7 +1,7 @@
 # Opencv-course
 Thia repository is for me to learn and practice coding with opencv ONLY.
 
-Keep updating...(20230818)
+Keep updating...(20230903)
 
 # Course outline
 ## Section #1 Basics
@@ -26,6 +26,10 @@ Keep updating...(20230818)
 - Building a Deep Computer Vision model to classify between the characters in Simpsons
 - Data is collected from Kaggle
 - Use Kaggle Notebook to train the model
+
+## Section #4 License plate detection and recogniton
+- Detection using opencv
+- Recognition using EasyOCR
 
 # Credits
 參考資料：[Medium][1], [Youtube][2]
