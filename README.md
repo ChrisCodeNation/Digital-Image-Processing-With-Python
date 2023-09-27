@@ -1,7 +1,11 @@
 # Opencv-course
-Thia repository is for me to learn and practice coding with opencv ONLY.
+目前在電腦視覺中大多應用都是使用深度學習，但我認為對於一個研究電腦視覺領域的人來說，且現在許多科技廠仍會使用此技術進行檢測，所以傳統影像處理技還是非常重要的。
+雖然在大學和碩士期間也會用影像處理技術對影像做處理，但也只是非常簡單的處理，如二值化、灰階、旋轉等。不過，除了這些，影像處理還有非常多的技術可以學，因此從這篇是我學好影像處理和打好基礎的第一篇。
+這是我的學習紀錄，所有範例都是跟著[數位影像處理](https://www.books.com.tw/products/0010923809)這本書的教學及查詢網路上的資料，並使用我自己的方法整理，以及加上自己的看法。
 
-Keep updating...(20230903)
+詳細筆記請參考[hackmd](https://hackmd.io/juj5Mz2aTZmAQEwDXPXmdg?view)
+
+Keep updating...(20230927)
 
 # Course outline
 ## Section #1 Basics
