@@ -36,7 +36,8 @@ Keep updating...(20230927)
 - Recognition using EasyOCR
 
 # Credits
-參考資料：[Medium][1], [Youtube][2]
+參考資料：[Medium][1], [Youtube][2], [數位影像處理][3]
 
 [1]: https://medium.com/jimmy-wang/opencv-基礎教學筆記-with-python-d780f571a57a "Medium"
 [2]: https://www.youtube.com/watch?v=oXlwWbU8l2o "Youtube"
+[3]: https://www.books.com.tw/products/0010923809
